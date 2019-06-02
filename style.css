@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    padding: 10px;
+}
+
+.bar-chart {
+    background-color: #C7D9D9;
+}
+
+.bar {
+    fill: #999;
+}
+
+.chart-text {
+    color: black;
+    font-family: sans-serif;
+    font-size: 75%;
+}
+
+.svg-container {
+    fill: red;
+}
